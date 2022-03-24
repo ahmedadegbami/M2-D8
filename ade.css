@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    height: 8vh;
+    background-color: #017BFE;
+    display: flex;
+    
+}
+.nav-content  {
+    display:flex;
+    align-items: center;
+    color: white;
+    padding: 10px;
+    font-size: 1.1em;
+    
+}
+
+.navs{
+    display: flex;
+    margin-left: 150px
+}
+
+
